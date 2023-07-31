@@ -9,6 +9,16 @@
 | [Chopsticks](https://www.codechef.com/problems/TACHSTCK) | :star:   |1320 | greedy|  [:white_check_mark:](https://github.com/LuizIgnacio2002/codechef-solutions/blob/main/Chopsticks.cpp)           |
 | [Ciel and Receipt](https://www.codechef.com/problems/CIELRCPT)    | :star:  | 936    | greedy   |[:white_check_mark:](https://github.com/LuizIgnacio2002/codechef-solutions/blob/main/Ciel%20and%20Receipt.cpp)         |
 | ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+
 
 
 
