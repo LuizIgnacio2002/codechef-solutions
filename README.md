@@ -8,7 +8,7 @@
 | [Mutated Minions](https://www.codechef.com/problems/CHN15A)     | :star:  | 777      | Ad hoc    |[:white_check_mark:](https://github.com/LuizIgnacio2002/codechef-solutions/blob/main/Mutated%20Minions.cpp)           |
 | [Chopsticks](https://www.codechef.com/problems/TACHSTCK) | :star:   |1320 | greedy|  [:white_check_mark:](https://github.com/LuizIgnacio2002/codechef-solutions/blob/main/Chopsticks.cpp)           |
 | [Ciel and Receipt](https://www.codechef.com/problems/CIELRCPT)    | :star:  | 936    | greedy   |[:white_check_mark:](https://github.com/LuizIgnacio2002/codechef-solutions/blob/main/Ciel%20and%20Receipt.cpp)         |
-| [Maximum Weight Difference](https://www.codechef.com/problems/MAXDIFF?tab=statement)  | :star: :star:  | 1308     | greedy    |[:white_check_mark:](https://github.com/LuizIgnacio2002/codechef-solutions/blob/main/Maximum%20Weight%20Difference.cpp)       |
+| [Maximum Weight Difference](https://www.codechef.com/problems/MAXDIFF?tab=statement)  | :star: :star:  | 1308     | greedy    |[:white_check_mark:](https://github.com/LuizIgnacio2002/codechef-solutions/blob/main/Maximum%20Weight%20Difference.cpp)    [:white_check_mark:](https://github.com/LuizIgnacio2002/codechef-solutions/blob/main/Maximum%20Weight%20Difference%20solution%202.cpp)   |
 | ....      | ...  | ....      | ...    |..           |
 | ....      | ...  | ....      | ...    |..           |
 | ....      | ...  | ....      | ...    |..           |
