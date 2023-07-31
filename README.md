@@ -7,7 +7,7 @@
 | [The Minimum Number Of Moves](https://www.codechef.com/problems/SALARY)      | :star: :star:  | 1242     | Ad hoc, sorting, vector, array   |[:white_check_mark:](https://github.com/LuizIgnacio2002/codechef-solutions/blob/main/The%20Minimum%20Number%20Of%20Moves.cpp)    |
 | [Mutated Minions](https://www.codechef.com/problems/CHN15A)     | :star:  | 777      | Ad hoc    |[:white_check_mark:](https://github.com/LuizIgnacio2002/codechef-solutions/blob/main/Mutated%20Minions.cpp)           |
 | [Chopsticks](https://www.codechef.com/problems/TACHSTCK) | :star:   |1320 | greedy|  [:white_check_mark:](https://github.com/LuizIgnacio2002/codechef-solutions/blob/main/Chopsticks.cpp)           |
-| ....      | ...  | ....      | ...    |..           |
+| [Ciel and Receipt](https://www.codechef.com/problems/CIELRCPT)    | :star:  | 936    | greedy   |[:white_check_mark:](https://github.com/LuizIgnacio2002/codechef-solutions/blob/main/Ciel%20and%20Receipt.cpp)         |
 | ....      | ...  | ....      | ...    |..           |
 
 
